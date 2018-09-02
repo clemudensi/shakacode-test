@@ -1,4 +1,4 @@
-## A tree Log with React
+## A Login App with React
 A simple reactJS app with authenticated routes and access-levels using node js backend.
 
 #### How to run
